@@ -25,7 +25,7 @@
 fill the fields.
 
 
-### 4. Run runserver and navigate to http://127.0.0.1:8000/admin to fill in some companies and advocate 
+### 4. Run runserver and navigate to http://127.0.0.1:8000/admin to fill in dummy data for companies and advocate 
 
     python manage.py runserver
 
