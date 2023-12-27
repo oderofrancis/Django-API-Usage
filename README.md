@@ -6,7 +6,7 @@
   
   open with VS Code 
   
-    ``cd Django-API-Usage && code .``
+    cd Django-API-Usage && code .
 
 ### 2. Create virtualenv and activate your environment
     virtualenv env 
